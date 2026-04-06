@@ -1,7 +1,5 @@
 /* Add CSS Styling */
-p {
+.highlight {
     background-color: hsl(0, 100%, 75%);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    
-
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
 }
