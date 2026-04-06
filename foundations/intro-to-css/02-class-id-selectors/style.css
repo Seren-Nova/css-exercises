@@ -3,3 +3,7 @@
     background-color: hsl(0, 100%, 75%);
     font-family: Verdana, "DejaVu Sans", sans-serif; 
 }
+#one {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
