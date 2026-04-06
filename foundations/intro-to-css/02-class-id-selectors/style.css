@@ -10,3 +10,7 @@
 .same {
     font-size: 24px;
 }
+#another {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: 700; 
+}
